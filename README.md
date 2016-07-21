@@ -17,7 +17,7 @@ ___
 
 [How to Read and Use Histograms in R](http://flowingdata.com/2014/02/27/how-to-read-histograms-and-use-them-in-r/)
 
-文章首先比较了直方图和条形图之间的区别，并用NBA-Census-10.14.2013数据集具体解释我们应该怎样看直方图，并用具体的R脚本实现了直方图。
+文章首先比较了直方图和条形图之间的区别，并用[NBA数据集](https://github.com/hanxlinsist/bookstore/blob/master/datasets/NBA-Census-10.14.2013.csv)具体解释我们应该怎样看直方图，并用具体的R脚本实现了直方图。
 
 **难度系数:** :star: :star:
 
