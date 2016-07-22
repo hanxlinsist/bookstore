@@ -12,6 +12,10 @@ ___
 
 ___
 
+## 资料
+
+___
+
 
 **Tag** :zap: histogram(直方图) :zap: bar chart(条形图) :zap: R语言plot直方图
 
@@ -27,6 +31,16 @@ ___
 
 [Facets (ggplot2)](http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/)
 
-文章用具体的实例来讲解R语言ggplot2包的facet_grid()和facet_wrap()方法。
+文章用具体的实例来讲解R语言ggplot2包的facet_grid()和facet_wrap()方法。如果你熟悉seaborn的话，它和seaborn的facetgrid方法相似。
+
+**难度系数:** :star:
+
+___
+
+**Tag** : :zap: R :zap: table函数
+
+[R Function of the Day: table](http://www.r-bloggers.com/r-function-of-the-day-table/)
+
+文章用自己生成的数据集并提出了相应要探索的问题。从而演示table函数解决提出的问题。
 
 **难度系数:** :star:
