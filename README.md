@@ -17,7 +17,7 @@ ___
 ___
 
 
-**Tag** :zap: histogram(直方图) :zap: bar chart(条形图) :zap: R语言plot直方图
+#### **Tag** :zap: histogram(直方图) :zap: bar chart(条形图) :zap: R语言plot直方图
 
 [How to Read and Use Histograms in R](http://flowingdata.com/2014/02/27/how-to-read-histograms-and-use-them-in-r/)
 
@@ -27,7 +27,7 @@ ___
 
 ___
 
-**Tag** : :zap: ggplot2 :zap: facet_grid() :zap: facet_wrap()
+#### **Tag** : :zap: ggplot2 :zap: facet_grid() :zap: facet_wrap()
 
 [Facets (ggplot2)](http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/)
 
@@ -37,7 +37,7 @@ ___
 
 ___
 
-**Tag** : :zap: R :zap: table函数
+#### **Tag** : :zap: R :zap: table函数
 
 [R Function of the Day: table](http://www.r-bloggers.com/r-function-of-the-day-table/)
 
@@ -47,7 +47,7 @@ ___
 
 ___
 
-**Tag** : :zap: 对数变换(Log Transformations)
+#### **Tag** : :zap: 对数变换(Log Transformations)
 
 [Log Transformations for Skewed and Wide Distributions](https://www.r-statistics.com/2013/05/log-transformations-for-skewed-and-wide-distributions-from-practical-data-science-with-r/)
 
