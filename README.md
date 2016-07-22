@@ -44,3 +44,13 @@ ___
 文章用自己生成的数据集并提出了相应要探索的问题。从而演示table函数解决提出的问题。
 
 **难度系数:** :star:
+
+___
+
+**Tag** : :zap: 对数变换(Log Transformations)
+
+[Log Transformations for Skewed and Wide Distributions](https://www.r-statistics.com/2013/05/log-transformations-for-skewed-and-wide-distributions-from-practical-data-science-with-r/)
+
+文章主要介绍了对数据进行Log Transformations的好处，以及在什么样的情况下采用这种变换最为合适。
+
+**难度系数:** :star: :star:
