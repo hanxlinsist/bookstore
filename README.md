@@ -54,3 +54,13 @@ ___
 文章主要介绍了对数据进行Log Transformations的好处，以及在什么样的情况下采用这种变换最为合适。
 
 **难度系数:** :star: :star:
+
+___
+
+#### **Tag** : :zap: box plot
+
+[How to Read and Use a Box-and-Whisker Plot](http://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+文章主要教你怎样看懂box plot
+
+**难度系数:** :star:
