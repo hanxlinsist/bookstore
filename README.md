@@ -61,6 +61,6 @@ ___
 
 [How to Read and Use a Box-and-Whisker Plot](http://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
 
-文章主要教你怎样看懂box plot
+文章主要教你怎样看懂box plot。[正态分布与box plot](https://en.wikipedia.org/wiki/File:Boxplot_vs_PDF.svg)
 
 **难度系数:** :star:
