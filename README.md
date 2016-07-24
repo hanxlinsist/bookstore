@@ -64,3 +64,13 @@ ___
 文章主要教你怎样看懂box plot。[正态分布与box plot](https://en.wikipedia.org/wiki/File:Boxplot_vs_PDF.svg)
 
 **难度系数:** :star:
+
+___
+
+#### **Tag** : :zap: R :zap: Date
+
+[Date Formats in R](http://www.r-bloggers.com/date-formats-in-r/)
+
+文章主要讲R语言导入字符串或数字作为日期的方法。
+
+**难度系数:** :star:
