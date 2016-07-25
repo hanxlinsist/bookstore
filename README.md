@@ -84,3 +84,14 @@ ___
 文章主要讲R语言导入字符串或数字作为日期的方法。
 
 **难度系数:** :star:
+
+___
+
+#### **Tag** : :zap: Pearson correlation :zap: Kendall rank correlation :zap: Spearman correlation
+
+[Correlation (Pearson, Kendall, Spearman)](http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/)
+
+文章主要介绍这三种度量两个变量之间correlation的方法，并在什么样的假设下才成立，在什么样的变量关系下用哪种方法。
+
+**难度系数:** :star: :star: :star:
+
