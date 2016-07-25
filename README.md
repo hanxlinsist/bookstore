@@ -27,6 +27,16 @@ ___
 
 ___
 
+#### **Tag** : :zap: scales
+
+[Scales of Measurement in Statistics](http://stattrek.com/statistics/measurement-scales.aspx)
+
+文章介绍了4个scales，分别是nominal, ordinal, interval, 和ratio scales。也就是特征值的变量类型，比如离散的还是连续的。只不过前面几个是统计学中的术语。
+
+**难度系数:** :star:
+
+___
+
 #### **Tag** : :zap: ggplot2 :zap: facet_grid() :zap: facet_wrap()
 
 [Facets (ggplot2)](http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/)
