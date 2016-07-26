@@ -47,6 +47,16 @@ ___
 
 ___
 
+#### **Tag** : :zap: ggplot2 :zap: smooths
+
+[How can I explore different smooths in ggplot2](http://www.ats.ucla.edu/stat/r/faq/smooths.htm)
+
+文章主要用R语言的ggplot2包去在数据上加smooths来拟合数据从而观察数据的趋势。
+
+**难度系数:** :star:
+
+___
+
 #### **Tag** : :zap: R :zap: table函数
 
 [R Function of the Day: table](http://www.r-bloggers.com/r-function-of-the-day-table/)
