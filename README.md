@@ -105,3 +105,13 @@ ___
 
 **难度系数:** :star: :star: :star:
 
+___
+
+#### **Tag** : :zap: R :zap: Apply家族函数
+
+[R tutorial on the Apply family of functions](https://www.datacamp.com/community/tutorials/r-tutorial-apply-family#gs.WOqq9Ow)
+
+文章用具体的实例介绍R语言中Apply家族函数的使用方法和一些与其有密切关联的函数。
+
+**难度系数:** :star:
+
