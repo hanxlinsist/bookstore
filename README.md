@@ -115,3 +115,12 @@ ___
 
 **难度系数:** :star:
 
+___
+
+#### **Tag** : :zap: R绘图 :zap: 图形参数
+
+[Graphical Parameters](http://www.statmethods.net/advgraphs/parameters.html)
+
+文章主要讲在用R语言绘图时，用一些图形参数调整图形的字体，颜色，坐标，标题等。
+
+**难度系数:** :star:
