@@ -124,3 +124,14 @@ ___
 文章主要讲在用R语言绘图时，用一些图形参数调整图形的字体，颜色，坐标，标题等。
 
 **难度系数:** :star:
+
+___
+
+#### **Tag** : :zap: One-Way Tables :zap: Two-Way Tables
+
+[One-Way Tables](http://stattrek.com/statistics/one-way-table.aspx?Tutorial=AP)
+[Two-Way Tables](http://stattrek.com/statistics/two-way-table.aspx?Tutorial=AP)
+
+文章介绍统计学中One-Way Tables和Two-Way Tables的概念，读完这篇文章以后，大家能熟练运用这两个概念去做统计分析。
+
+**难度系数:** :star:
