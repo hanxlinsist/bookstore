@@ -147,3 +147,11 @@ ___
 这是一本关于Linux命令很好的入门书，它全面细致地讲解了常用的Linux命令。这本书也介绍了怎么写Linux Shell脚本，包括介绍了基本语法，函数，处理用户的一些输入等。但是，这本书只给了很少地脚本例子。如果你已经掌握了很多的Linux命令，并且也可以写一些基本的Shell，那么这本书并不适合你，你应该去找一些更深入的书来看。还有一点建议就是：**千万不要把整个书仔细地从头到尾看下去，你应该大致去了解一些命令，掌握一些基础，剩下的你用到什么就去看什么，否则就算你一下都看完，过后你不用，很快就忘记了，会白白浪费先前的时间。**
 
 **难度系数:** :star:
+
+#### **Tag** : :zap: java web :zap: servlet :zap: 域对象的线程安全性
+
+[Java theory and practice: Are all stateful Web applications broken?](http://www.ibm.com/developerworks/library/j-jtp09238/index.html)
+
+这篇文章主要介绍了servlet中的2个域对象，一个是ServletContext，另一个是HttpSession. 相信学过Java Web的人都会“使用”这2个对象。但是，你真的会使用吗？在高并发的情况下，它们会有什么样的线程问题呢？Brian Goetz（author of Java Concurrency in Practice）在文章中详细地介绍了在高并发的情况下会出现的问题，并用具体的实例来演示可能出现的线程安全问题，并一步步解决出现的问题。
+
+**难度系数:** :star: :star: :star:
