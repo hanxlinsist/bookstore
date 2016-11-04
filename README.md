@@ -155,3 +155,11 @@ ___
 这篇文章主要介绍了servlet中的2个域对象，一个是ServletContext，另一个是HttpSession. 相信学过Java Web的人都会“使用”这2个对象。但是，你真的会使用吗？在高并发的情况下，它们会有什么样的线程问题呢？Brian Goetz（author of Java Concurrency in Practice）在文章中详细地介绍了在高并发的情况下会出现的问题，并用具体的实例来演示可能出现的线程安全问题，并一步步解决出现的问题。
 
 **难度系数:** :star: :star: :star:
+
+#### **Tag** : :zap: java web :zap: servlet :zap: 域对象的线程安全性
+
+[深入分析 Java I/O 的工作机制](http://www.ibm.com/developerworks/cn/java/j-lo-javaio/)
+
+这篇文章主要介绍了I/O 的内在工作机制，你将了解到：Java 的 I/O 类库的基本架构；磁盘 I/O 工作机制；网络 I/O 的工作机制；其中以网络 I/O 为重点介绍 Java Socket 的工作方式；你还将了解到 NIO 的工作方式，还有同步和异步以及阻塞与非阻塞的区别，最后我们将介绍一些常用的关于 I/O 的优化技巧。
+
+**难度系数:** :star: :star: :star:
