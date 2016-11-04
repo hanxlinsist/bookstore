@@ -156,10 +156,10 @@ ___
 
 **难度系数:** :star: :star: :star:
 
-#### **Tag** : :zap: java web :zap: servlet :zap: 域对象的线程安全性
+#### **Tag** : :zap: java :zap: 磁盘 I/O :zap: 网络 I/O
 
 [深入分析 Java I/O 的工作机制](http://www.ibm.com/developerworks/cn/java/j-lo-javaio/)
 
-这篇文章主要介绍了I/O 的内在工作机制，你将了解到：Java 的 I/O 类库的基本架构；磁盘 I/O 工作机制；网络 I/O 的工作机制；其中以网络 I/O 为重点介绍 Java Socket 的工作方式；你还将了解到 NIO 的工作方式，还有同步和异步以及阻塞与非阻塞的区别，最后我们将介绍一些常用的关于 I/O 的优化技巧。
+这篇文章主要介绍了I/O 的内在工作机制，你将了解到：Java 的 I/O 类库的基本架构；磁盘 I/O 工作机制；网络 I/O 的工作机制；其中以网络 I/O 为重点介绍 Java Socket 的工作方式；你还将了解到 NIO 的工作方式，还有同步和异步以及阻塞与非阻塞的区别，最后还有一些常用的关于 I/O 的优化技巧。
 
 **难度系数:** :star: :star: :star:
