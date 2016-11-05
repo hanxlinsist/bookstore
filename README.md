@@ -10,7 +10,7 @@ ___
 
 当然了，如果大家有什么认为好的资料，非常欢迎大家email me（vincenthan1994 AT gmail.com）。
 
-**友情提示：** 查看资料的Tag可以快速了解资料的主题。
+**友情提示：** 查看资料的Tag可以快速了解资料的主题，**有些资料必须翻过大墙以后才能访问。**
 
 ___
 
@@ -163,3 +163,11 @@ ___
 这篇文章主要介绍了I/O 的内在工作机制，你将了解到：Java 的 I/O 类库的基本架构；磁盘 I/O 工作机制；网络 I/O 的工作机制；其中以网络 I/O 为重点介绍 Java Socket 的工作方式；你还将了解到 NIO 的工作方式，还有同步和异步以及阻塞与非阻塞的区别，最后还有一些常用的关于 I/O 的优化技巧。
 
 **难度系数:** :star: :star: :star:
+
+#### **Tag** : :zap: java :zap: HashMap
+
+[How HashMap internally works in Java](http://netjs.blogspot.in/2015/05/how-hashmap-internally-works-in-java.html)
+
+这篇文章主要介绍了HashMap存取过程的内部原理，并着重说明了equals 和 hashCode 方法在这个过程中起到的重要作用。最后作者也介绍了HashMap在Java 8中的新改变：就是当hash冲突达到阙值的时候，它会用balanced trees 代替 linked lists的实现。
+
+**难度系数:** :star:
