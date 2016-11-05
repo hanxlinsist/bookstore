@@ -148,6 +148,8 @@ ___
 
 **难度系数:** :star:
 
+___
+
 #### **Tag** : :zap: java web :zap: servlet :zap: 域对象的线程安全性
 
 [Java theory and practice: Are all stateful Web applications broken?](http://www.ibm.com/developerworks/library/j-jtp09238/index.html)
@@ -155,6 +157,8 @@ ___
 这篇文章主要介绍了servlet中的2个域对象，一个是ServletContext，另一个是HttpSession. 相信学过Java Web的人都会“使用”这2个对象。但是，你真的会使用吗？在高并发的情况下，它们会有什么样的线程问题呢？Brian Goetz（author of Java Concurrency in Practice）在文章中详细地介绍了在高并发的情况下会出现的问题，并用具体的实例来演示可能出现的线程安全问题，并一步步解决出现的问题。
 
 **难度系数:** :star: :star: :star:
+
+___
 
 #### **Tag** : :zap: java :zap: 磁盘 I/O :zap: 网络 I/O
 
@@ -164,6 +168,8 @@ ___
 
 **难度系数:** :star: :star: :star:
 
+___
+
 #### **Tag** : :zap: java :zap: HashMap
 
 [How HashMap internally works in Java](http://netjs.blogspot.in/2015/05/how-hashmap-internally-works-in-java.html)
@@ -171,3 +177,17 @@ ___
 这篇文章主要介绍了HashMap存取过程的内部原理，并着重说明了equals 和 hashCode 方法在这个过程中起到的重要作用。最后作者也介绍了HashMap在Java 8中的新改变：就是当hash冲突达到阙值的时候，它会用balanced trees 代替 linked lists的实现。
 
 **难度系数:** :star:
+
+___
+
+#### **Tag** : :zap: java :zap: ConcurrentHashMap
+
+[How ConcurrentHashMap Internally Works in Java with Example](http://javahungry.blogspot.com/2015/02/how-concurrenthashmap-works-in-java-internal-implementation.html)
+
+这篇文章首先解释为什么引入ConcurrentHashMap，接着说明它的内部是如何实现线程安全性的。在整个文章中，它并没有带我们查看JDK源码是如何实现的，因此这是一篇很好的入门文章，接着大家可以自己去探索源码是如何实现它的线程安全性的？
+
+**bonus:** [Fail Fast vs Fail Safe Iterator](http://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html)   这篇文章非常清晰地解释两者之间的区别？
+
+**难度系数:** :star: :star:
+
+___
