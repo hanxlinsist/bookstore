@@ -8,7 +8,7 @@ ___
 
 无论是让我拍案叫绝的书籍，还是那些触动我心灵的读物，我都会放在这个repository里分享出来，内容不仅仅限于技术。我会对每个书籍作出一个大致的总结，让其它人少走一些弯路，从而选择出一本更适合自己的书籍，节约大家宝贵的时间，同时我也会为每本书籍和每篇文章加上相应的Tag，以供大家参考。同时对于一些技术类书籍，我会加上我的一个主观难度系数，5 :star:「 最难」 1 :star: 「最简单」。每个人的知识背景不同，对于难度的认知也不尽相同，因此大家参考一下就好。
 
-当然了，如果大家有什么认为好的资料，非常欢迎大家email me（vincenthan1994 AT gmail.com）。
+当然了，如果大家有什么认为好的资料，非常欢迎大家email me（vincenthan1994 AT gmail.com），有些资料是英文的，如果大家英文不好的话，给我发Email，我会抽出时间把需求最多的文章翻译出来。
 
 **友情提示：** 查看资料的Tag可以快速了解资料的主题，**有些资料必须翻过大墙以后才能访问。**
 
@@ -189,5 +189,15 @@ ___
 **bonus:** [Fail Fast vs Fail Safe Iterator](http://javahungry.blogspot.com/2014/04/fail-fast-iterator-vs-fail-safe-iterator-difference-with-example-in-java.html)   这篇文章非常清晰地解释两者之间的区别？
 
 **难度系数:** :star: :star:
+
+___
+
+#### **Tag** : :zap: java :zap: java虚拟机
+
+[深入理解java虚拟机](https://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA-JVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5-%E5%91%A8%E5%BF%97%E6%98%8E/dp/B00D2ID4PK/ref=sr_1_1)
+
+这本书是一本非常好的关于java虚拟机的入门书。如果你是一个中国的Java程序员，这本书绝对是不能错过的一本书，它可以带你了解JVM的全貌。看过这本书以后，你就可以去读[The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/)了。如果你并不没有太多的时间，建议直接读你感兴趣的章节，你会发现它比书讲解的更加全面。当然了，如果你是大牛，不用读这本书也行，直接去读Java虚拟机规范吧，如果你是小牛:smile: ，建议还是先读书，有了基础以后在读Java虚拟机规范。
+
+**难度系数:** :star: :star: :star: :star:
 
 ___
