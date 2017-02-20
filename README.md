@@ -202,7 +202,7 @@ ___
 
 ___
 
-#### **Tag** : :zap: java :zap: 并发集合类
+#### **Tag** : :zap: java :zap: Hashtable :zap: HashMap
 
 [Concurrent collections classes](https://www.ibm.com/developerworks/java/library/j-jtp07233/index.html)
 
