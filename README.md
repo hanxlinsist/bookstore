@@ -211,3 +211,13 @@ ___
 **难度系数:** :star: :star:
 
 ___
+
+#### **Tag** : :zap: java :zap: CopyOnWriteArrayList :zap: CopyOnWriteArraySet
+
+[Java concurrency: Understanding CopyOnWriteArrayList and CopyOnWriteArraySet](http://markusjais.com/java-concurrency-understanding-copyonwritearraylist-and-copyonwritearrayset/)
+
+这篇文章主要介绍了CopyOnWriteArrayList，解释了它是如何做到线程安全的，从而给出了其应用场景。但是，这篇文章并没有给出具体的实现细节。看完这篇文章以后，大家可以去理解源码，会有更多地收获。最后，它推荐了Guava 的 Immutable collections.
+
+**难度系数:** :star: :star:
+
+___
