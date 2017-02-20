@@ -201,3 +201,13 @@ ___
 **难度系数:** :star: :star: :star: :star:
 
 ___
+
+#### **Tag** : :zap: java :zap: 并发集合类
+
+[Concurrent collections classes](https://www.ibm.com/developerworks/java/library/j-jtp07233/index.html)
+
+这篇文章首先介绍了Hashtable与HashMap的wraper - Collections.synchronizedMap 在高并发情况下存在的性能瓶颈，以及在一些情况下会出现的线程安全问题。接着它介绍了CopyOnWriteArrayList 和 ConcurrentHashMap是如何牺牲一些对调用者的保证从而达到更好地并发性能，但是整篇文章中都没有深入ConcurrentHashMap的技术细节。通过阅读这篇文章，你可以很好地了解Hashtable与HashMap wraper存在的不足之处。
+
+**难度系数:** :star: :star:
+
+___
