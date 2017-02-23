@@ -231,3 +231,13 @@ ___
 **难度系数:** :star:
 
 ___
+
+#### **Tag** : :zap: java :zap: 线程
+
+[Thread synchronization](http://www.javaworld.com/article/2074318/java-concurrency/java-101--understanding-java-threads--part-2--thread-synchronization.html)
+
+这篇文章首先用一个“存钱取钱”的例子说明多线程程序会出现数据的不一致问题，并详细说明了出现问题的原因。紧接着告诉我们关于Java原始类型long和double会存在线程安全性问题，这是官方文档给出的说明[long 和 double的线程安全性](http://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html#jls-17.7)， 紧接着介绍了Java的同步机制和synchronized关键字的使用，以及Synchronized方法。 最后，作者说明了错误的同步机制有可能会出现没有同步或死锁的情况，并提供了一些建议去避免这些问题。
+
+**难度系数:** :star:
+
+___
