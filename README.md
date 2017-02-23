@@ -226,7 +226,7 @@ ___
 
 [Introducing threads and runnables](http://www.javaworld.com/article/2074217/java-concurrency/java-101--understanding-java-threads--part-1--introducing-threads-and-runnables.html)
 
-这篇文章主要介绍了关于Java Thread 类的一些基本方法，如果你先前有线程的基础，通过这篇文章可以让你快速回顾Thread类的一些常用方法，并且给出了一些方法会出现的问题。
+这篇文章主要介绍了关于Java Thread 类的一些基本方法,比如join方法。如果你先前有线程的基础，通过这篇文章可以让你快速回顾Thread类的一些常用方法，并且给出了一些方法可能出现的问题。
 
 **难度系数:** :star:
 
