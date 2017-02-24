@@ -251,3 +251,13 @@ ___
 **难度系数:** :star: :star:
 
 ___
+
+#### **Tag** : :zap: java :zap: 线程 :zap: 并发
+
+[Thread groups, volatility, and thread-local variables](http://www.javaworld.com/article/2074481/java-concurrency/java-101--understanding-java-threads--part-4---thread-groups--volatility--and-threa.html)
+
+这篇文章首先介绍了Java中线程组相关的一些概念和它的优先级，以及操作线程组的相关API，接着作者给出了一个Interrupt线程组的一个场景，个人感觉这个场景很好。紧接着，作者又介绍了volatile关键字对共享变量可见性的影响。
+
+**难度系数:** :star: :star:
+
+___
