@@ -248,6 +248,6 @@ ___
 
 这篇文章介绍了线程调度(Thread scheduling) ，并给出了Native thread scheduling 和 green thread scheduling 之间的区别，同时作者也用具体的例子说明yield() 和 setPriority() 方法都是如何影响线程调度的。接着，作者详细解释了wait/notify的机制和用法，并把它应用到生产者和消费者的例子中，这个例子很棒，大家应该首先自己先试着写一下代码，然后再去看作者写的代码。最后，作者介绍了如何interrupt线程。
 
-**难度系数:** :star:
+**难度系数:** :star: :star:
 
 ___
