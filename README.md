@@ -10,7 +10,7 @@ ___
 
 当然了，如果大家有什么认为好的资料，非常欢迎大家email me（vincenthan1994 AT gmail.com），有些资料是英文的，如果大家英文不好的话，给我发Email，我会抽出时间把需求最多的文章翻译出来。
 
-**友情提示：** 查看资料的Tag可以快速了解资料的主题，**有些资料必须翻过大墙以后才能访问。**
+**友情提示：** 查看资料的Tag可以快速了解资料的主题，**有些资料必须用梯子才能访问。**
 
 ___
 
@@ -257,6 +257,16 @@ ___
 [Thread groups, volatility, and thread-local variables](http://www.javaworld.com/article/2074481/java-concurrency/java-101--understanding-java-threads--part-4---thread-groups--volatility--and-threa.html)
 
 这篇文章首先介绍了Java中线程组相关的一些概念和它的优先级，以及操作线程组的相关API，接着作者给出了一个Interrupt线程组的一个场景，个人感觉这个场景很好。紧接着，作者又介绍了volatile关键字对共享变量可见性的影响。然后，作者详细解释了ThreadLocal这个类的一些用法，并举了几个例子。当然了，这篇文章还有一些其它的东西，我觉得不算重要，我也没仔细读。
+
+**难度系数:** :star: :star:
+
+___
+
+#### **Tag** : :zap: java :zap: ReentrantLock :zap: synchronized
+
+[More flexible, scalable locking in JDK 5.0](https://www.ibm.com/developerworks/java/library/j-jtp10264/index.html)
+
+这篇文章主介绍了ReentrantLock相比于synchronized关键字多了哪些功能，之后比较了它们之间的可扩展性，最后作者告诉我们应该在什么情况下应用它们，而不是盲目地去使用ReentrantLock.
 
 **难度系数:** :star: :star:
 
